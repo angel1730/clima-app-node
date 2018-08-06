@@ -6,5 +6,5 @@ Recuerden ejecutar ``` npm install ``` para las librerias
 
 ```
 node app -d "Madrid, España"
-
+Usamos ese comando para consultar el clima de Madrid España
 ```
